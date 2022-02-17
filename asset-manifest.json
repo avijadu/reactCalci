@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactcalci/static/css/main.7d1487da.css",
+    "main.js": "/reactcalci/static/js/main.342fc3c5.js",
+    "static/media/moon.png": "/reactcalci/static/media/moon.ed34e3ccb9cc98e025d1.png",
+    "static/media/sun.png": "/reactcalci/static/media/sun.c083fc151ebd00ab40a2.png",
+    "index.html": "/reactcalci/index.html",
+    "main.7d1487da.css.map": "/reactcalci/static/css/main.7d1487da.css.map",
+    "main.342fc3c5.js.map": "/reactcalci/static/js/main.342fc3c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d1487da.css",
+    "static/js/main.342fc3c5.js"
+  ]
+}
